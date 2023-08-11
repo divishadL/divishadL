@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divishad Londhe</h1>
 <h3 align="center">Master's Student in Robotics at RWTH Aachen University, Germany</h3>
 
-- 🔭 I’m currently working on my master's thesis **Behaviour Tree based Robotize Lab Orhcestration**
+- 🔭 I’m currently working on my master's thesis **Behaviour Tree based Robotized Lab Orhcestration**
 
 - 🌱 I’m currently learning **Agile Development**
 
