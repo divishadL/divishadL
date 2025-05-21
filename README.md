@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divishad Londhe</h1>
-<h3 align="center">Master's Student in Robotics at RWTH Aachen University, Germany</h3>
+<h3 align="center">PhD Candidate in Robotics at University of Augsburg, Germany</h3>
 
-- 🔭 I’m currently working on my master's thesis **Behaviour Tree based Robotized Lab Orhcestration**
+- 🔭 I’m currently working on my thesis **AI based Force Torque control in Industrial Robotic Assembly**
 
 - 🌱 I’m currently learning **Agile Development**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ROS,ROS2, Pytorch and Tensorflow**
 
-- 📫 How to reach me **divishad.londhe@rwth-aachen.de**
+- 📫 How to reach me **divishad.londhe@uni-a.de**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1e6Nj8ihRi9uBJF4Fz9n3l5FiayNzQF0o/view?usp=sharing](https://drive.google.com/file/d/1e6Nj8ihRi9uBJF4Fz9n3l5FiayNzQF0o/view?usp=sharing)
 
